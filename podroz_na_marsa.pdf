@@ -1,0 +1,363 @@
+%PDF-1.7
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R /Outlines 5 0 R /PageMode /UseOutlines >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [8 0 R 14 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Outlines /First 6 0 R /Last 7 0 R /Count 2 >>
+endobj
+6 0 obj
+<< /Title (1. Dlaczego lecimy na Marsa i Orbita Hohmanna) /Parent 5 0 R /Next 7 0 R /Dest [8 0 R /XYZ 0 842 null] >>
+endobj
+7 0 obj
+<< /Title (2. Etapy Misji Zalogowej i Laziki Marsjanskie) /Parent 5 0 R /Prev 6 0 R /Dest [14 0 R /XYZ 0 842 null] >>
+endobj
+8 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 9 0 R /Annots [10 0 R 11 0 R 12 0 R 13 0 R] >>
+endobj
+9 0 obj
+<< /Length 3949 >>
+stream
+q
+% Space banner background
+0.07 0.08 0.14 rg
+0 710 595 132 re f
+
+% Stars in banner
+0.95 0.96 1.0 rg
+45 810 1.5 1.5 re f
+120 795 2 2 re f
+210 820 1.5 1.5 re f
+310 785 2 2 re f
+420 815 1.5 1.5 re f
+510 800 2 2 re f
+555 745 1.5 1.5 re f
+
+% Red planet (Mars) in top right corner
+0.85 0.31 0.18 rg
+490 740 70 70 re f
+0.95 0.45 0.25 rg
+498 748 54 54 re f
+0.72 0.22 0.12 rg
+510 775 18 10 re f
+525 758 14 8 re f
+
+% Accent stripe below header
+0.92 0.38 0.15 rg
+0 705 595 5 re f
+
+% Header title
+BT
+/F2 24 Tf
+1 1 1 rg
+36 792 Td
+(PODROZ NA MARSA) Tj
+0 -26 Td
+/F2 14 Tf
+0.96 0.65 0.35 rg
+(Przewodnik Misji Miedzyplanetarnej i Eksploracji Czerwonej Planety) Tj
+0 -22 Td
+/F1 10 Tf
+0.80 0.84 0.92 rg
+(Dokument demonstracyjny PDFCraft v0.8.0 PL  |  Lektor TTS: przytrzymaj Shift i kliknij tekst) Tj
+ET
+
+% Section 1
+BT
+/F2 14 Tf
+0.12 0.16 0.24 rg
+36 672 Td
+(1. Dlaczego lecimy na Marsa?) Tj
+/F1 11 Tf
+0.18 0.20 0.26 rg
+0 -20 Td
+(Mars jest czwarta planeta od Slonca i najbardziej podobnym do Ziemi globem w Ukladzie) Tj
+0 -16 Td
+(Slonecznym. Doba marsjanska \(sol\) trwa 24 godziny i 39 minut, a nachylenie osi obrotu) Tj
+0 -16 Td
+(wynosi 25,19 stopnia, co powoduje wystepowanie czterech por roku podobnie jak na Ziemi.) Tj
+0 -16 Td
+(W przeszlosci na powierzchni Marsa plynela ciekla woda, a pod czapami polarnymi) Tj
+0 -16 Td
+(oraz w regolicie nadal znajduja sie ogromne poklady wodnego lodu.) Tj
+ET
+
+% Hohmann transfer diagram box
+0.95 0.96 0.98 rg
+36 410 523 165 re f
+0.78 0.82 0.88 RG
+1 w
+36 410 523 165 re S
+
+% Sun in diagram center
+0.98 0.75 0.15 rg
+185 480 22 22 re f
+
+% Earth orbit and Earth
+0.20 0.52 0.90 RG
+1.5 w
+120 445 150 90 re S
+0.15 0.48 0.88 rg
+114 484 12 12 re f
+
+% Mars orbit and Mars
+0.85 0.30 0.18 RG
+1.5 w
+85 425 220 130 re S
+0.85 0.30 0.18 rg
+299 484 14 14 re f
+
+% Hohmann transfer curve
+0.16 0.68 0.42 RG
+2.5 w
+120 490 m
+180 555 245 555 305 490 c
+S
+
+% Diagram caption
+BT
+/F2 12 Tf
+0.12 0.16 0.24 rg
+330 550 Td
+(Manewr Transferowy Hohmanna) Tj
+/F1 10 Tf
+0.22 0.25 0.32 rg
+0 -18 Td
+(- Okno startowe: co 26 miesiecy \(780 dni\)) Tj
+0 -15 Td
+(- Dystans podrozy: ok. 480 mln km po luku) Tj
+0 -15 Td
+(- Czas lotu w jedna strone: 6 do 9 miesiecy) Tj
+0 -15 Td
+(- Predkosc ucieczki z Ziemi: 11,2 km/s) Tj
+0 -15 Td
+(- Hamowanie: tarcza aerodynamiczna w atmosferze) Tj
+0 -15 Td
+(- Niebieski punkt: Ziemia \(1 AU od Slonca\)) Tj
+0 -15 Td
+(- Czerwony punkt: Mars \(1,52 AU od Slonca\)) Tj
+ET
+
+% Section 2
+BT
+/F2 14 Tf
+0.12 0.16 0.24 rg
+36 382 Td
+(2. Niezwykla geografia Czerwonej Planety) Tj
+/F1 11 Tf
+0.18 0.20 0.26 rg
+0 -20 Td
+(Na Marsie znajduje sie najwyzsza gora w calym Ukladzie Slonecznym - wygasly wulkan) Tj
+0 -16 Td
+(tarczowy Olympus Mons, ktory wznosi sie na wysokosc ponad 21 kilometrow nad sredni) Tj
+0 -16 Td
+(poziom powierzchni \(prawie trzy razy wyzej niz Mount Everest\). Z kolei kanion Valles) Tj
+0 -16 Td
+(Marineris rozciaga sie na dlugosc 4000 kilometrow i osiaga glebokosc do 7 kilometrow.) Tj
+0 -22 Td
+(Srednia temperatura na powierzchni wynosi okolo minus 63 stopni Celsjusza, a rzadka) Tj
+0 -16 Td
+(atmosfera sklada sie w 95 procentach z dwutlenku wegla, 2,6 procenta z azotu oraz) Tj
+0 -16 Td
+(1,9 procenta z argonu. Cisnienie atmosferyczne na powierzchni to zaledwie 6 hPa.) Tj
+ET
+
+% External clickable links box
+0.93 0.96 1.0 rg
+36 115 523 105 re f
+0.25 0.52 0.92 RG
+1.2 w
+36 115 523 105 re S
+
+BT
+/F2 12 Tf
+0.10 0.24 0.52 rg
+48 198 Td
+(Klikalne zrodla i encyklopedia \(otwieraja sie w nowej karcie\):) Tj
+/F1 10.5 Tf
+0.12 0.38 0.82 rg
+0 -22 Td
+(1. Wikipedia PL: Mars - pelny artykul encyklopedyczny \(https://pl.wikipedia.org/wiki/Mars\)) Tj
+0 -20 Td
+(2. Wikipedia PL: Zalogowa wyprawa na Marsa \(https://pl.wikipedia.org/wiki/Zalogowa_wyprawa_na_Marsa\)) Tj
+0 -20 Td
+(3. NASA Mars Exploration Program \(https://science.nasa.gov/mars/\)) Tj
+ET
+
+% Page 1 footer
+BT
+/F1 9 Tf
+0.45 0.48 0.54 rg
+36 42 Td
+(Strona 1 z 2  |  PDFCraft PL  |  Kliknij z klawiszem Shift na dowolne zdanie lub zolta notatke, aby wlaczyc Lektora TTS) Tj
+ET
+Q
+endstream
+endobj
+10 0 obj
+<< /Type /Annot /Subtype /Link /Rect [44 170 545 188] /Border [0 0 0] /A << /S /URI /URI (https://pl.wikipedia.org/wiki/Mars) >> >>
+endobj
+11 0 obj
+<< /Type /Annot /Subtype /Link /Rect [44 150 545 168] /Border [0 0 0] /A << /S /URI /URI (https://pl.wikipedia.org/wiki/Za%C5%82ogowa_wyprawa_na_Marsa) >> >>
+endobj
+12 0 obj
+<< /Type /Annot /Subtype /Link /Rect [44 130 545 148] /Border [0 0 0] /A << /S /URI /URI (https://science.nasa.gov/mars/) >> >>
+endobj
+13 0 obj
+<< /Type /Annot /Subtype /Text /Rect [530 665 554 689] /Color [0.96 0.62 0.04] /T (Centrum Kontroli Lotow) /Contents (Wskazowka Lektora: Przytrzymaj Shift i kliknij na dowolny akapit lub na te notatke, aby uslyszec glos lektora!) >>
+endobj
+14 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 15 0 R /Annots [16 0 R] >>
+endobj
+15 0 obj
+<< /Length 3171 >>
+stream
+q
+% Page 2 header
+0.09 0.11 0.18 rg
+0 760 595 82 re f
+0.92 0.38 0.15 rg
+0 756 595 4 re f
+
+BT
+/F2 18 Tf
+1 1 1 rg
+36 802 Td
+(PODROZ NA MARSA - ETAPY MISJI I TECHNOLOGIA) Tj
+/F1 10 Tf
+0.80 0.84 0.92 rg
+0 -20 Td
+(Strona 2: Architektura lotu, laziki marsjanskie, baza powierzchniowa i paliwo metanowe ISRU) Tj
+ET
+
+% Section 3
+BT
+/F2 14 Tf
+0.12 0.16 0.24 rg
+36 720 Td
+(3. Cztery kluczowe fazy wyprawy zalogowej) Tj
+/F1 11 Tf
+0.18 0.20 0.26 rg
+0 -22 Td
+(Faza I - Misja bezzalogowa Cargo: Dwa lata przed startem astronautow na Marsa wysylany) Tj
+0 -16 Td
+(jest automatyczny ladownik towarowy z reaktorem slonecznym oraz fabryka paliwa ISRU.) Tj
+0 -20 Td
+(Faza II - Produkcja paliwa na miejscu \(In-Situ Resource Utilization\): W reakcji Sabatiera) Tj
+0 -16 Td
+(dwutlenek wegla z atmosfery Marsa oraz wodor z podziemnego lodu sa przetwarzane) Tj
+0 -16 Td
+(w ciekly metan \(CH4\) i ciekly tlen \(O2\) niezbedne do lotu powrotnego na Ziemie.) Tj
+0 -20 Td
+(Faza III - Lot zalogowy i ladowanie: Statek po 200 dniach lotu wchodzi w atmosfere) Tj
+0 -16 Td
+(Marsa, wytracajac 99 procent energii kinetycznej dzieki oslonie termicznej, a nastepnie) Tj
+0 -16 Td
+(laduje pionowo na silnikach rakietowych w wybranym rejonie rownikowym \(np. Arcadia Planitia\).) Tj
+0 -20 Td
+(Faza IV - Eksploracja przez 500 dni: Zaloga bada probki geologiczne w poszukiwaniu) Tj
+0 -16 Td
+(sladow dawnego zycia mikrobiologicznego, buduje szklarnie hydroponiczne i przygotowuje) Tj
+0 -16 Td
+(statek powrotny na kolejne okno transferowe w kierunku Ziemi.) Tj
+ET
+
+% Comparison table Earth vs Mars
+0.95 0.96 0.98 rg
+36 300 523 175 re f
+0.78 0.82 0.88 RG
+1 w
+36 300 523 175 re S
+
+0.16 0.22 0.34 rg
+36 445 523 30 re f
+
+BT
+/F2 11 Tf
+1 1 1 rg
+48 456 Td
+(Parametr planetarny                  Ziemia                              Mars) Tj
+/F1 10.5 Tf
+0.15 0.18 0.24 rg
+0 -28 Td
+(Srednica rownikowa                    12 756 km                           6 792 km \(53% Ziemi\)) Tj
+0 -22 Td
+(Przyspieszenie grawitacyjne           9,81 m/s2 \(1,00 g\)                  3,72 m/s2 \(0,38 g\)) Tj
+0 -22 Td
+(Dlugosc doby                          23 h 56 min                         24 h 39 min \(1 sol\)) Tj
+0 -22 Td
+(Rok orbitalny                         365,25 dni                          687 dni ziemskich) Tj
+0 -22 Td
+(Naturalne ksiezyce                    1 \(Ksiezyc\)                         2 \(Fobos i Deimos\)) Tj
+ET
+
+% Section 4
+BT
+/F2 14 Tf
+0.12 0.16 0.24 rg
+36 262 Td
+(4. Robotyczni pionierzy na powierzchni Marsa) Tj
+/F1 11 Tf
+0.18 0.20 0.26 rg
+0 -20 Td
+(Przed wyslaniem ludzi powierzchnie planety badaja zaawansowane roboty. Lazik Curiosity) Tj
+0 -16 Td
+(od 2012 roku przemierza krater Gale, natomiast lazik Perseverance od 2021 roku bada) Tj
+0 -16 Td
+(dawna delte rzeczna w kraterze Jezero, zbierajac rdzenie skalne do przyszlego powrotu) Tj
+0 -16 Td
+(na Ziemie. Towarzyszyl mu dron Ingenuity, ktory wykonal 72 historyczne loty w rzadkiej) Tj
+0 -16 Td
+(atmosferze Marsa, udowadniajac mozliwosc lotu aerodynamicznego poza Ziemia.) Tj
+ET
+
+% Page 2 footer
+BT
+/F1 9 Tf
+0.45 0.48 0.54 rg
+36 42 Td
+(Strona 2 z 2  |  PDFCraft PL  |  Mozesz zaznaczac tekst, dodawac komentarze, podpisywac i sluchac Lektora TTS) Tj
+ET
+Q
+endstream
+endobj
+16 0 obj
+<< /Type /Annot /Subtype /Text /Rect [530 715 554 739] /Color [0.22 0.78 0.45] /T (Inzynier ISRU) /Contents (Produkcja metanu i tlenu na powierzchni Marsa pozwala zmniejszyc mase startowa statku z Ziemi ponad trzykrotnie.) >>
+endobj
+17 0 obj
+<< /Title (Podroz na Marsa - Przewodnik Misji Miedzyplanetarnej) /Author (Polska Strefa Craft - PDFCraft) /Subject (Eksploracja Marsa i przewodnik demonstracyjny PDFCraft) >>
+endobj
+xref
+0 18
+0000000000 65535 f 
+0000000015 00000 n 
+0000000103 00000 n 
+0000000167 00000 n 
+0000000264 00000 n 
+0000000366 00000 n 
+0000000437 00000 n 
+0000000569 00000 n 
+0000000702 00000 n 
+0000000876 00000 n 
+0000004877 00000 n 
+0000005025 00000 n 
+0000005199 00000 n 
+0000005343 00000 n 
+0000005592 00000 n 
+0000005747 00000 n 
+0000008971 00000 n 
+0000009213 00000 n 
+trailer
+<< /Size 18 /Root 1 0 R /Info 17 0 R >>
+startxref
+9404
+%%EOF
