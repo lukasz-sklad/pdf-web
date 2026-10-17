@@ -7,8 +7,8 @@
   <title>PDFCraft — Edytor PDF &amp; Lektor PL</title>
   <link rel="icon" type="image/svg+xml" href="./favicon.svg">
   <link rel="icon" type="image/x-icon" href="./favicon.ico">
-  <link rel="modulepreload" href="./pdfcraft-web-8e205690ff028465.js">
-  <link rel="preload" href="./pdfcraft-web-8e205690ff028465_bg.wasm" as="fetch" type="application/wasm" crossorigin="anonymous">
+  <link rel="modulepreload" href="./pdfcraft-web-33d254d02ac17bd1.js">
+  <link rel="preload" href="./pdfcraft-web-33d254d02ac17bd1_bg.wasm" as="fetch" type="application/wasm" crossorigin="anonymous">
   <style>
     * { box-sizing: border-box; }
     html, body {
@@ -145,7 +145,7 @@
   </div>
 
   <script type="module">
-    import init, * as bindings from './pdfcraft-web-8e205690ff028465.js';
+    import init, * as bindings from './pdfcraft-web-33d254d02ac17bd1.js';
 
     const statusEl = document.getElementById('status_text');
     const progressBar = document.getElementById('progress_bar');
@@ -181,7 +181,7 @@
     async function start() {
       try {
         setStatus('Pobieranie silnika PDFCraft (WebAssembly)…');
-        const wasmUrl = './pdfcraft-web-8e205690ff028465_bg.wasm';
+        const wasmUrl = './pdfcraft-web-33d254d02ac17bd1_bg.wasm';
         const response = await fetch(wasmUrl);
 
         if (!response.ok) {
